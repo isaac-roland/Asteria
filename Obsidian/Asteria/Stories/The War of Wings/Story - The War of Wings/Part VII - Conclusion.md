@@ -1,0 +1,13 @@
+**The War of Wings**
+
+**Conclusion**
+
+Gerit Princeps was marked as a traitor in the history books, and labeled a rebel. His actions caused the death of tens of thousands of soldiers, and numerous nobles. His war lead to the deaths of his wife Velya Blackstone, her twin Valya, and Gerit's sons Lucas and Varin. Not to mention he was held responsible for the deaths of the rest of House Blackstone, and Aldric Ravenstil. 
+
+Odran Hearston (Gerit's surviving son) retreated to Slutiarm where he was unofficially told to rule until his death. He was only permitted to marry a Madinglian noble, with whom he had Garin Hearston. Named after his brother Varin. Odran raised Garin on wisdom and restraint. Which, when his father died at a fairly young age, carried over to him ruling Madinglia successfully for 40+ years until his death in 1188. 
+
+The Crown fell to the 10 year old James Princeps II, who ruled with Aron Merek as his regent for the next 8 years. King James was present for the deaths of his mother and brother, which impacted him late into his life. The King diminished the power of the Lord Protector until he removed the role and had Aron Merek retire in Sirong for the rest of his days. Individual council positions held immense power, minimizing his responsibility. He was known as a pacifist and was remembered for rebuilding the Kingdom and rekindling ties amongst the High Lords. He married a Konthern, and was named James 'The Reforger' for his roll in reconstructing the realm. 
+
+The Kontherns took control of the province of Blackstone, by forming a union when the remaining members of House Blackstone died in a shipwreck. The only survivor was already in Swanhall, and got married to the current Konthern Lord. The Konthern Lord ruled in his wifes name and his son united the provinces. On that ship was also one of two Ravenstil twin brothers, who both had an equal to their father's (Aldric Ravenstil's) throne. 
+
+During the war, one of the twins fought alongside Gerit Hearston (Aldren Ravenstil) while the other worked on a relationship with the Kontherns (Aldron Ravenstil, Resulting in him dying in the shipwreck). Aldron had a son, Armin, who was only 8 years of age at the time. Aldren was given Blackfeather Hall, but the Kontherns gave his nephew many lands to the West, claiming that the young Armin had an equal claim to his uncle and wanted to honor that. In reality it was seen as a political move that came out of fear of rebellion from Lord Aldren. Later this caused a split in House Ravenstil, which is to be covered in other stories. 

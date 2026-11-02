@@ -1,0 +1,18 @@
+**The War of Wings**
+
+**Pt. II**
+And thus, the statue of Lord Gerit was demolished to make way for the library of Heartwell. In three swift years, the structure was complete. An impressive feat for such a magnificent building. Scholars and nobles alike traveled across the realm to visit the new library. They hailed it as the greatest collection of knowledge in the known world. Soon after, Lord Gerit married his paramour Velya Blackstone. The wedding was held in Heartwell, where thousands gathered to watch the ceremony. During the feast, the King drank heavily (Quite unusual for him), and it is said that he took certain liberties during the bedding ceremony. What truly transpired is lost to history, but what's clear is that Gerit never forgot this slight. 
+
+Lord Aron saw his library as an opportunity. He convinced many nobles to send their young children to Heartwell to be tutored by the best scholars in Shavia. He wanted to do this in order to befriend these young Lords and perhaps when they were adults, they would remember his kindness. Needless to say, Gerit was not happy about this. He would plead to the King to stop this, but the King ignored Gerit's advice. At council meetings, the King no longer listened to him even. The King would speak, but Aron's voice came out. More and more, Aron was taking control. Gerit made efforts to reconcile with the King, and bring their houses together. He asked the King that they foster Gerit's eldest son, Edwin, with the firstborn son of the King, Prince Arthur. 
+
+The King became indecisive. He saw what was happening but did not do anything about it. Aron exploited this and would make decisions in the King's name, which normally is the authority of the Lord Protector. Gerit, upset by this, went to the King. He asked King Gareth to stop Aron, and keep him from stealing his Kingdom. To Gerit's anger, the King did not act. 
+
+Gerit: "If the sigil for House Merek is an eagle, then that makes Aron a crow. He's no noble bird, Gareth. He doesn't soar, he circles. Crows wait for things to die so they can strip them bare, picking over whatever’s left."
+
+Gareth: "Aron brings more than you give him credit for. Not every foe is met with steel, Gerit. Knowledge is strength, too."
+
+Gerit: grimly "Maybe. But knowledge in a crow’s beak? That only serves the crow. You'll see, Gareth—he’s here for the spoils, not for you. And when your kingdom lies cracked and bleeding, he will be the first to feast."
+
+At this point, 15 years had passed. Aron had shifted the perception of Madinglians to being almost the same as foreigners. He even coined the term 'Stone-Goblins' as a derogatory word for them. All of this meant that when the Kingdom ran into hardships, which it did, Lord Protector Gerit was the one who took the blame. The Murlaykans were once again intruding upon Shavian land, and a harsh winter had left the peasants hungry. The King then held a tournament, to celebrate his 3rd son being born. It was also to celebrate Lord Gerit's 4th son's birth. 
+
+A knight of House Ravenstil and House Carthen were jousting, and made for quite a show. It was such a show that peasants started gathering to watch. To their anger, they saw the King and his family holding a massive feast, with enough food to feed hundreds. The peasants were enraged. One by one, they all began shouting, asking for food. The guards were trying to keep the peasants away, but failed to stop them. Most of the noble families rushed away, to get to safety. One noble, however, did not. The Queen Valya Blackstone, with her newborn son, walked in front of the crowd.

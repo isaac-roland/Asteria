@@ -1,0 +1,3 @@
+[[House Ravenstil]] rules the Duchy of Ravenmark, with their capital of Ravenmark and they have a castle called Blackfeather hall. They used to be a bigger duchy combined with the Duchy of Westle, but were split after the house was divided between [[House Westraven]], and [[House Ravenstil]]. 
+
+It was founded after its conquest by the Southron Kings defeated the Black King and the lands of House Ravenstil was reduced to the current 2 duchies of Ravenmark and [[Duchy of The Westgate|The Westgate]] as punishment for their practices. 

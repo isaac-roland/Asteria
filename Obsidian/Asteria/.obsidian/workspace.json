@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "f4c488ece0e2735e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c172a5506a7661cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2031dbb047e36a38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stories/The War of Wings/Story - The War of Wings/Part 0 - Prelude.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Part 0 - Prelude"
+            }
+          },
+          {
+            "id": "89a479667428ad5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stories/The War of Wings/Story - The War of Wings/Part III.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Part III"
+            }
+          },
+          {
+            "id": "080f6eca1d0279b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Duchies/Swanhall/Duchy of The Westgate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Duchy of The Westgate"
+            }
+          },
+          {
+            "id": "3c23cbd5c72bdbe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/The Lass from High Hollow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Lass from High Hollow"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e42a7c0be34a789",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e80d965736cb768",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "802219e0c57fbbaf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "aac64f78a53406e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "364855067e76eb1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9d657be25fbfda1",
+    "type": "split",
+    "children": [
+      {
+        "id": "eeb354cd25830785",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c9cf38918f4b80e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Houses/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "ad843ad43c0c4318",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Houses/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "f5ead0e119b3dbdb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3a298159af14752b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Houses/Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3c23cbd5c72bdbe2",
+  "lastOpenFiles": [
+    "Stories/The War of Wings/Story - The War of Wings/Part III.md",
+    "Stories/The War of Wings/Story - The War of Wings/Part V - The Battle of the Bleeding Springs.md",
+    "Stories/The War of Wings/Story - The War of Wings/Part IV - The Weeping Knoll.md",
+    "Duchies/Madinglia/Briduan.md",
+    "Duchies/Madinglia/The Valley.md",
+    "Duchies/Madinglia/The Knolls.md",
+    "Duchies/Madinglia/Slutiarm.md",
+    "Houses/Shavia/Major Houses/House Hearston.md",
+    "Houses/Shavia/Minor Houses/House Caulmar.md",
+    "Houses/Shavia/Minor Houses/House Altherion.md",
+    "Stories/Jason's Claim/Story/Part I.md",
+    "Stories/The War of Wings/Story - The War of Wings/The Split of House Ravenstil.md",
+    "Stories/The War of Wings/Story - The War of Wings/Part 0 - Prelude.md",
+    "Children of Stone.md",
+    "Stories/The Maiden of Swanhall/Characters/Sir Don 'The Lowborn'.md",
+    "Stories/Jason's Claim/Story",
+    "Stories/Jason's Claim/Characters",
+    "Stories/Jason's Claim/Part I.md",
+    "Stories/Jason's Claim",
+    "Stories/Untitled.md",
+    "Stories/The Maiden of Swanhall/Story - The Maiden of Swanhall.md",
+    "Stories/The Maiden of Swanhall/Story - The Maiden of Swanhall (Full Dialogue).md",
+    "Stories/Harpies of House Letum/Flame of Freystarde.md",
+    "Ravenstils.md",
+    "Stories/The War of Wings/Story - The War of Wings/Part II.md",
+    "Stories/The War of Wings/Story - The War of Wings/Part VI - Heartwell.md",
+    "Stories/The War of Wings/Story - The War of Wings/Part VII - Conclusion.md",
+    "Stories/The War of Wings/Story - The War of Wings/Part I.md",
+    "Untitled.base",
+    "Duchies/Swanhall/Duchy of The Westgate.md",
+    "Stories/Harpies of House Letum",
+    "Stories/Tales of Elyon/Dulling of his Scythe",
+    "Stories/Tales of Elyon",
+    "Houses/Illaneri/Untitled",
+    "Stories/The War of Wings/Characters/House Ravenstil",
+    "Stories/The War of Wings/Characters/House Blackstone",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
